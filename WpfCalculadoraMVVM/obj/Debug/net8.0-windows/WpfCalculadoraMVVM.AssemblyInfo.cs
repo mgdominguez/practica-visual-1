@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfCalculadoraMVVM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fb498d8a97abf00922ea0974c633a1809b35d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfCalculadoraMVVM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfCalculadoraMVVM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
