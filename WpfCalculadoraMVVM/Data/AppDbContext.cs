@@ -17,7 +17,7 @@ namespace WpfCalculadoraMVVM.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-0QF3P7K;Initial Catalog=uninorte2025;User ID=sa;Password=Milciades1987;Encrypt=False;Trust Server Certificate=True");
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-0QF3P7K;Initial Catalog=baseDedatos;User ID=sa;Password=123456;Encrypt=False;Trust Server Certificate=True");
         }
     }
 }
